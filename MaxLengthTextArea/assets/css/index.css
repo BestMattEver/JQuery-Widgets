@@ -1,0 +1,10 @@
+textarea{
+  font-family: serif;
+  background: rgb(5, 255, 0);
+  color: rgb(0, 0, 0);
+  outline: none;
+}
+
+#howMuchLeft{
+  color: rgb(3, 143, 0);
+}
