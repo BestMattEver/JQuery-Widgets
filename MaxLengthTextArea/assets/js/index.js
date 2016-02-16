@@ -1,3 +1,5 @@
+'use strict';
+
 var area = $("#textArea");
 var howMuchLeft =$("#howMuchLeft")
 
