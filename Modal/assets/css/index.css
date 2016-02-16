@@ -1,0 +1,39 @@
+.btn{
+  color: #000;
+  background: #d56262;
+  width: 250px;
+  border-radius: 3px;
+  border: 1px solid #7d3838;
+  text-align:center;
+}
+
+.btn:hover{
+  background:#7d3838;
+}
+
+.modal{
+  position: fixed;
+  display:none;
+}
+
+#grayArea{
+  width:100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+#modalProper{
+  background: #d56262;
+  top:15%;
+  left:15%;
+  width:60%;
+  height:60%;
+}
+
+#closeModal{
+  position: absolute;
+  left: 97%;
+  background: #7d3838;
+  border-radius: 10px;
+  : right;
+}
